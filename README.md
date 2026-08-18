@@ -9,13 +9,15 @@
 <div align="center">
 <table align="center" border="0">
 <tr>
+<td colspan="3" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzarihani&theme=github-dark&border_radius=10" alt="GitHub Streak" width="100%" /></td>
+</tr>
+<tr><td colspan="3" height="30"></td></tr>
+<tr>
 <td colspan="3" align="center"><img src="https://vectomark.vercel.app/api/svg/terminal?user=hamzarihani&theme=github-dark" alt="Retro Terminal Activity" width="100%" /></td>
 </tr>
 <tr><td colspan="3" height="30"></td></tr>
 <tr>
-<td align="center"><img src="https://vectomark.vercel.app/api/svg/stats?user=hamzarihani&theme=github-dark" alt="GitHub Stats" /></td>
-<td width="30"></td>
-<td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzarihani&theme=github-dark&border_radius=10" alt="GitHub Streak" /></td>
+<td colspan="3" align="center"><img src="https://vectomark.vercel.app/api/svg/stats?user=hamzarihani&theme=github-dark" alt="GitHub Stats" /></td>
 </tr>
 <tr><td colspan="3" height="30"></td></tr>
 <tr>
